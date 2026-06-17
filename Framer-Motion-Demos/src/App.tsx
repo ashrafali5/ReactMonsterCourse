@@ -9,6 +9,8 @@
 // import StaggerAnimation from "./Components/StaggerAnimation";
 // import StaggerGallery from "./Components/StaggerGallery";
 
+import UseMotionValueHook from "./Components/UseMotionValueHook";
+
 const App = () => (
   <div>
     {/* <PulsingButton /> */}
@@ -21,6 +23,8 @@ const App = () => (
     {/* <AnimatedShape /> */}
     {/* <StaggerAnimation /> */}
     {/* <StaggerGallery /> */}
+    {/* <UseMotionValueHook /> */}
+    
   </div>
 );
 
