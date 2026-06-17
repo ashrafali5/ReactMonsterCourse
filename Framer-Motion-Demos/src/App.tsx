@@ -8,8 +8,7 @@
 // import AnimatedShape from "./Components/AnimatedShape";
 // import StaggerAnimation from "./Components/StaggerAnimation";
 // import StaggerGallery from "./Components/StaggerGallery";
-
-import UseMotionValueHook from "./Components/UseMotionValueHook";
+// import UseMotionValueHook from "./Components/UseMotionValueHook";
 
 const App = () => (
   <div>
@@ -24,7 +23,7 @@ const App = () => (
     {/* <StaggerAnimation /> */}
     {/* <StaggerGallery /> */}
     {/* <UseMotionValueHook /> */}
-    
+
   </div>
 );
 
