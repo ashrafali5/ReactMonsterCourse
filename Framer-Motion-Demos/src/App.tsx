@@ -6,6 +6,8 @@
 // import AnimatedCard from "./Components/AnimatedCard";
 // import ImagesGallery from "./Components/ImagesGallery";
 // import AnimatedShape from "./Components/AnimatedShape";
+// import StaggerAnimation from "./Components/StaggerAnimation";
+// import StaggerGallery from "./Components/StaggerGallery";
 
 const App = () => (
   <div>
@@ -17,6 +19,8 @@ const App = () => (
     {/* <AnimatedCard /> */}
     {/* <ImagesGallery /> */}
     {/* <AnimatedShape /> */}
+    {/* <StaggerAnimation /> */}
+    {/* <StaggerGallery /> */}
   </div>
 );
 
