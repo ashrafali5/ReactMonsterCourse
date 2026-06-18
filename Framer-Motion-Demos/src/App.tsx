@@ -9,6 +9,12 @@
 // import StaggerAnimation from "./Components/StaggerAnimation";
 // import StaggerGallery from "./Components/StaggerGallery";
 // import UseMotionValueHook from "./Components/UseMotionValueHook";
+// import RangeSlider from "./Components/RangeSlider";
+// import UseTransformHook from "./Components/UseTransformHook";
+// import WhileInVew from "./Components/WhileInVew";
+// import ScrollAnimation from "./Components/ScrollAnimation";
+// import RealScrollAnimation from "./Components/RealScrollAnimation";
+// import SideBarSmooth from "./Components/SideBarSmooth";
 
 const App = () => (
   <div>
@@ -23,7 +29,13 @@ const App = () => (
     {/* <StaggerAnimation /> */}
     {/* <StaggerGallery /> */}
     {/* <UseMotionValueHook /> */}
-
+    {/* <RangeSlider /> */}
+    {/* <UseTransformHook /> */}
+    {/* <WhileInVew /> */}
+    {/* <ScrollAnimation /> */}
+    {/* <RealScrollAnimation /> */}
+    {/* <Fade /> */}
+    {/* <SideBarSmooth /> */}
   </div>
 );
 
