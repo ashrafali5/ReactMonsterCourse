@@ -20,11 +20,15 @@
 // import ResponsiveBtnAnimation from "./Components/ResponsiveBtnAnimation";
 // import Fade from "./Components/Fade";
 
-import ToggleSwitch from "./Workout/ToggleSwitch";
-
 // Workout
 // import SlideMenu from "./Workout/SlideMenu";
 // import FadeVariant from "./Workout/FadeVariant";
+// import ToggleSwitch from "./Workout/ToggleSwitch";
+// import SwipeCard from "./Workout/SwipeCard";
+// import BoxColorChanger from "./Workout/BoxColorChanger";
+// import LongPressToChangeSize from "./Workout/LongPressToChangeSize";
+// import GestureBasedImageGallery from "./Workout/GestureBasedImageGallery";
+// import StaggeredList from "./Workout/StaggeredList";
 
 const App = () => (
   <div>
@@ -51,7 +55,12 @@ const App = () => (
     {/* <BackgroundAnimation /> */}
     {/* <FadeVariant /> */}
     {/* <SlideMenu /> */}
-    <ToggleSwitch />
+    {/* <ToggleSwitch /> */}
+    {/* <SwipeCard /> */}
+    {/* <BoxColorChanger /> */}
+    {/* <LongPressToChangeSize /> */}
+    {/* <GestureBasedImageGallery /> */}
+    {/* <StaggeredList /> */}
   </div>
 );
 
