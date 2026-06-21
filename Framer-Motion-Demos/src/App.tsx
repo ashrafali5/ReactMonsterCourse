@@ -15,6 +15,16 @@
 // import ScrollAnimation from "./Components/ScrollAnimation";
 // import RealScrollAnimation from "./Components/RealScrollAnimation";
 // import SideBarSmooth from "./Components/SideBarSmooth";
+// import Modal from "./Components/Modal";
+// import BackgroundAnimation from "./Components/BackgroundAnimation";
+// import ResponsiveBtnAnimation from "./Components/ResponsiveBtnAnimation";
+// import Fade from "./Components/Fade";
+
+import ToggleSwitch from "./Workout/ToggleSwitch";
+
+// Workout
+// import SlideMenu from "./Workout/SlideMenu";
+// import FadeVariant from "./Workout/FadeVariant";
 
 const App = () => (
   <div>
@@ -34,8 +44,14 @@ const App = () => (
     {/* <WhileInVew /> */}
     {/* <ScrollAnimation /> */}
     {/* <RealScrollAnimation /> */}
-    {/* <Fade /> */}
+    {/* <Fade/> */}
     {/* <SideBarSmooth /> */}
+    {/* <Modal /> */}
+    {/* <ResponsiveBtnAnimation /> */}
+    {/* <BackgroundAnimation /> */}
+    {/* <FadeVariant /> */}
+    {/* <SlideMenu /> */}
+    <ToggleSwitch />
   </div>
 );
 
