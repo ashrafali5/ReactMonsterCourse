@@ -20,6 +20,7 @@
 // import ResponsiveBtnAnimation from "./Components/ResponsiveBtnAnimation";
 // import Fade from "./Components/Fade";
 
+
 // Workout
 // import SlideMenu from "./Workout/SlideMenu";
 // import FadeVariant from "./Workout/FadeVariant";
@@ -29,6 +30,11 @@
 // import LongPressToChangeSize from "./Workout/LongPressToChangeSize";
 // import GestureBasedImageGallery from "./Workout/GestureBasedImageGallery";
 // import StaggeredList from "./Workout/StaggeredList";
+// import StaggeredImageGallery from "./Workout/StaggeredImageGallery";
+// import StaggeredButtonHover from "./Workout/StaggeredButtonHover";
+// import StaggeredGridLayout from "./Workout/StaggeredGridLayout";
+// import StaggeredTextReveal from "./Workout/StaggeredTextReveal";
+// import HoverLinkedScale from "./Workout/HoverLinkedScale";
 
 const App = () => (
   <div>
@@ -61,6 +67,11 @@ const App = () => (
     {/* <LongPressToChangeSize /> */}
     {/* <GestureBasedImageGallery /> */}
     {/* <StaggeredList /> */}
+    {/* <StaggeredImageGallery /> */}
+    {/* <StaggeredButtonHover /> */}
+    {/* <StaggeredGridLayout /> */}
+    {/* <StaggeredTextReveal /> */}
+    {/* <HoverLinkedScale /> */}
   </div>
 );
 
