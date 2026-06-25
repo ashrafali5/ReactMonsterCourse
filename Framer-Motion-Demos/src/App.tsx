@@ -20,7 +20,6 @@
 // import ResponsiveBtnAnimation from "./Components/ResponsiveBtnAnimation";
 // import Fade from "./Components/Fade";
 
-
 // Workout
 // import SlideMenu from "./Workout/SlideMenu";
 // import FadeVariant from "./Workout/FadeVariant";
@@ -35,6 +34,8 @@
 // import StaggeredGridLayout from "./Workout/StaggeredGridLayout";
 // import StaggeredTextReveal from "./Workout/StaggeredTextReveal";
 // import HoverLinkedScale from "./Workout/HoverLinkedScale";
+// import SpringAnimatedPosition from "./Workout/SpringAnimatedPosition";
+// import DynamicRotation from "./Workout/DynamicRotation";
 
 const App = () => (
   <div>
@@ -72,6 +73,8 @@ const App = () => (
     {/* <StaggeredGridLayout /> */}
     {/* <StaggeredTextReveal /> */}
     {/* <HoverLinkedScale /> */}
+    {/* <SpringAnimatedPosition /> */}
+    {/* <DynamicRotation /> */}
   </div>
 );
 
