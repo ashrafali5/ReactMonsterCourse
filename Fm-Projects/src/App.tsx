@@ -1,14 +1,13 @@
 // import ScrollIndicator from "./Components/ScrollIndicator";
 // import Loader from "./Components/Loader";
+// import DraggableCard from "./Components/DraggableCard";
 
-import DraggableCard from "./Components/DraggableCard";
+import Carousel from "./Components/Carousel";
 
 const App = () => {
   return (
     <div>
-      <div className="flex h-screen justify-center items-center">
-        {/* <ScrollIndicator /> */}
-        {/* <Loader /> */}
+      {/* <div className="flex h-screen justify-center items-center">
         <DraggableCard
           style={{
             background: "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
@@ -30,7 +29,11 @@ const App = () => {
         >
           Card 3
         </DraggableCard>
-      </div>
+      </div> */}
+
+      {/* <ScrollIndicator /> */}
+      {/* <Loader /> */}
+      <Carousel />
     </div>
   );
 };
