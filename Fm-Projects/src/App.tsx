@@ -1,9 +1,9 @@
 // import ScrollIndicator from "./Components/ScrollIndicator";
 // import Loader from "./Components/Loader";
+
+import SideBar from "./Components/SideBar";
+
 // import DraggableCard from "./Components/DraggableCard";
-
-import Carousel from "./Components/Carousel";
-
 const App = () => {
   return (
     <div>
@@ -33,7 +33,7 @@ const App = () => {
 
       {/* <ScrollIndicator /> */}
       {/* <Loader /> */}
-      <Carousel />
+      <SideBar />
     </div>
   );
 };
